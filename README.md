@@ -65,5 +65,5 @@ Sources: ['2', '9', '4']
 ### **Conclusion**
 This project combines **LLM-generated listings**, **semantic search** powered by vector embeddings, and **augmented response generation** to create a highly personalized real estate search experience. It allows buyers to easily find listings that match their preferences and receive tailored property descriptions that appeal to their specific needs and desires.
 
-### **Acknowledgements**
-Thanks to the people who designed, made and teach this wonderful class! I am happy to be living in the era of LLMs. a It was a big help in this assignment. Thanks to the engineers who made tools like chatGPT possible which I used for this assignment
+### **Acknowledgements**  
+I would like to express my gratitude to the those who designed, developed, and teach this exceptional class. I am grateful to live in an era where Large Language Models (LLMs) are transforming the way we learn and work. Their contribution was invaluable throughout this assignment. I also extend my thanks to the engineers who made tools like ChatGPT possible, as they played a significant role in assisting me with this task.
