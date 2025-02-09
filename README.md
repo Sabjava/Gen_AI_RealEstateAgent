@@ -60,12 +60,10 @@ Response: Based on your preferences, I have found a stunning property that perfe
 This property not only meets your requirements but also exceeds expectations with its gourmet kitchen and upscale features. It truly embodies the essence of luxurious living in the heart of Downtown San Mateo.
 Sources: ['2', '9', '4']
 
-
-
 ```
 
 ### **Conclusion**
 This project combines **LLM-generated listings**, **semantic search** powered by vector embeddings, and **augmented response generation** to create a highly personalized real estate search experience. It allows buyers to easily find listings that match their preferences and receive tailored property descriptions that appeal to their specific needs and desires.
 
 ### **Acknowledgements**
-Thanks to the people who designed, made and teach this wonderful! I am happy to be living in the era of LLMs. a It was a big help in this assignment. Thanks to the engineers who made tools like chatGPT possible which I used for this assignment
+Thanks to the people who designed, made and teach this wonderful class! I am happy to be living in the era of LLMs. a It was a big help in this assignment. Thanks to the engineers who made tools like chatGPT possible which I used for this assignment
