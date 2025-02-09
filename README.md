@@ -16,7 +16,7 @@ The project also includes **augmented response generation**. After the listings 
 
 #### **5. Use of LLM for Generating Personalized Descriptions**
 Finally, an LLM is used to generate **personalized descriptions** for the listings. Based on the buyer's preferences, the system crafts unique and appealing descriptions for the properties, emphasizing the features that matter most to the buyer. These descriptions are designed to make the listings more attractive and engaging, providing a personalized experience for the user. Here is an example of such response:
-```python
+```
 Generated Prompt:
 Human: 
 You are an AI assistant that helps generate real estate listings based on provided data. 
